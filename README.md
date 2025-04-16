@@ -1,7 +1,7 @@
 # machine-learning-course-projects
-This repository contains academic work completed for the Machine Learning course during my MSc in Computer Science at the University of New Brunswick. It includes five programming Tasks using various machine learning algorithms in Python, along with a final survey-based report titled 'Phishing Detection Using Machine Learning'.
+This repository contains academic work completed for the Machine Learning course during my MSc in Computer Science at the University of New Brunswick. It includes five programming Project using various machine learning algorithms in Python, along with a final survey-based report titled 'Phishing Detection Using Machine Learning'.
 ---
-## 📂 Task 1 – Adaboost with ID3 (Letter Recognition Dataset)
+## 📂 Project 1 – Adaboost with ID3 (Letter Recognition Dataset)
 
 ### 📘 Overview
 This project implements the Adaboost algorithm using ID3 (custom decision tree) as the base learner. The model is trained and evaluated on the **Letter Recognition Dataset** from the UCI Machine Learning Repository.
@@ -24,7 +24,7 @@ This project implements the Adaboost algorithm using ID3 (custom decision tree) 
 - `AdaBoost_ID3_Letter_Recognition_Evaluated.ipynb` – Evaluation
 - `letter-recognition.data`, `.names`, `.data.Z` – Dataset files
 
-📂 **Task 2 – Breast Cancer Diagnosis Using ANN (Breast Cancer Dataset)**
+📂 **Project 2 – Breast Cancer Diagnosis Using ANN (Breast Cancer Dataset)**
 
 🔍 **Overview**  
 This project builds a custom Artificial Neural Network (ANN) from scratch in Python to classify breast cancer cases using the Breast Cancer Wisconsin dataset.
@@ -36,7 +36,7 @@ This project builds a custom Artificial Neural Network (ANN) from scratch in Pyt
 
 📎 [View Project Folder](./project_2_breast_cancer_ann)
 
-## 📂 Task 3 – Car Evaluation Using Naive Bayes (UCI Car Dataset)
+## 📂 Project 3 – Car Evaluation Using Naive Bayes (UCI Car Dataset)
 
 🔸 This project uses the Naive Bayes algorithm to classify car acceptability into categories (`unacc`, `acc`, `good`, `vgood`) using the UCI Car Evaluation dataset.  
 🔸 It includes training, evaluation, and performance analysis using a confusion matrix and accuracy.
