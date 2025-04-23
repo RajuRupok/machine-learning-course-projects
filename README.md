@@ -1,5 +1,11 @@
 # machine-learning-course-projects
-This repository contains academic work completed for the Machine Learning course during my MSc in Computer Science at the University of New Brunswick. It includes five programming projects using various machine learning algorithms in Python (Also a report of these projects) and a final survey-based report titled 'Phishing Detection Using Machine Learning'.
+This repository contains academic work completed for the Machine Learning course during my MSc in Computer Science at the University of New Brunswick. 
+
+It includes five programming projects using various machine learning algorithms in Python, as well as two detailed reports:
+
+- 📄 [Combined Programming Project Report](Machine_Learning_Programming_Project.pdf)
+- 📄 [Final Survey-Based Report – *Phishing Detection Using Machine Learning*](Machine_Learning%20Final%20Report.pdf)
+
 ---
 ## 📂 Project 1 – Adaboost with ID3 (Letter Recognition Dataset)
 
