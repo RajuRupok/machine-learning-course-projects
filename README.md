@@ -57,7 +57,7 @@ t10k-images.idx3-ubyte, t10k-labels.idx1-ubyte: Test data
 
 ### Project 5 – MNIST Classification using CNN
 
-This project applies a Convolutional Neural Network (CNN) on the MNIST dataset to classify handwritten digits. The architecture was built and tuned from scratch to enhance accuracy on both training and test data.
+This project applies a Convolutional Neural Network (CNN) on the MNIST dataset to classify handwritten digits. The architecture was built and tuned from scratch to enhance training and test data accuracy.
 
 #### 🔍 Key Highlights
 - Developed a CNN model using Keras
@@ -70,8 +70,8 @@ This project applies a Convolutional Neural Network (CNN) on the MNIST dataset t
 - NumPy, Matplotlib
 
 #### ▶️ How to Run
-```bash
-jupyter notebook mnist_cnn_detailed_experiments.ipynb
+```bash jupyter notebook mnist_cnn_detailed_experiments.ipynb
 
-📄 [Final Report – Machine Learning Course](./Machine_Learning_Programming_Project.pdf)  
-A complete academic report covering all 5 programming projects submitted as part of MSc coursework.
+📄 [📘 Download Final Report](./Machine_Learning_Programming_Project.pdf)  
+A complete, detailed submission report covering all five programming assignments from my Machine Learning coursework at UNB.
+
