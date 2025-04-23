@@ -76,12 +76,10 @@ This project applies a Convolutional Neural Network (CNN) on the MNIST dataset t
 - NumPy, Matplotlib
 
 #### ▶️ How to Run
-```bash jupyter notebook mnist_cnn_detailed_experiments.ipynb
+```bash
+jupyter notebook mnist_cnn_detailed_experiments.ipynb
 
-📄 [📘 Download Final Report](./Machine_Learning_Programming_Project.pdf)  
-A complete, detailed submission report covering all five programming assignments from my Machine Learning coursework at UNB.
 
-## 📄 Final Survey-Based Report
 
 - **Title:** Phishing Detection Using Machine Learning
 - **Authors:** Raju Deb & Sadman Sakib Choudhury
