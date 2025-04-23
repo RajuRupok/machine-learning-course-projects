@@ -1,5 +1,5 @@
 # machine-learning-course-projects
-This repository contains academic work completed for the Machine Learning course during my MSc in Computer Science at the University of New Brunswick. It includes five programming Project using various machine learning algorithms in Python, along with a final survey-based report titled 'Phishing Detection Using Machine Learning'.
+This repository contains academic work completed for the Machine Learning course during my MSc in Computer Science at the University of New Brunswick. It includes five programming projects using various machine learning algorithms in Python, along with a final survey-based report titled 'Phishing Detection Using Machine Learning'.
 ---
 ## 📂 Project 1 – Adaboost with ID3 (Letter Recognition Dataset)
 
@@ -54,3 +54,21 @@ Achieved high classification accuracy on test data.
 MNIST_ANN_Classification.ipynb: Main notebook
 train-images.idx3-ubyte, train-labels.idx1-ubyte: Training data
 t10k-images.idx3-ubyte, t10k-labels.idx1-ubyte: Test data
+
+### Project 5 – MNIST Classification using CNN
+
+This project applies a Convolutional Neural Network (CNN) on the MNIST dataset to classify handwritten digits. The architecture was built and tuned from scratch to enhance accuracy on both training and test data.
+
+#### 🔍 Key Highlights
+- Developed a CNN model using Keras
+- Achieved over 98% accuracy on test data
+- Compared different optimizers and layer configurations
+
+#### 🛠 Technologies Used
+- Python
+- TensorFlow / Keras
+- NumPy, Matplotlib
+
+#### ▶️ How to Run
+```bash
+jupyter notebook mnist_cnn_detailed_experiments.ipynb
