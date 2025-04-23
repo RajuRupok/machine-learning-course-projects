@@ -38,7 +38,7 @@ This project builds a custom Artificial Neural Network (ANN) from scratch in Pyt
 
 ## 📂 Project 3 – Car Evaluation Using Naive Bayes (UCI Car Dataset)
 
-🔸 This project uses the Naive Bayes algorithm to classify car acceptability into categories (`unacc`, `acc`, `good`, `vgood`) using the UCI Car Evaluation dataset.  
+🔸 This project uses the Naive Bayes algorithm to classify car acceptability (`unacc`, `acc`, `good`, `vgood`) using the UCI Car Evaluation dataset.  
 🔸 It includes training, evaluation, and performance analysis using a confusion matrix and accuracy.
 
 🔗 [View Project Files](./project_3_car_evaluation)
@@ -75,3 +75,9 @@ This project applies a Convolutional Neural Network (CNN) on the MNIST dataset t
 📄 [📘 Download Final Report](./Machine_Learning_Programming_Project.pdf)  
 A complete, detailed submission report covering all five programming assignments from my Machine Learning coursework at UNB.
 
+## 📄 Final Survey-Based Report
+
+- **Title:** Phishing Detection Using Machine Learning
+- **Authors:** Raju Deb & Sadman Sakib Choudhury
+- **Abstract:** This report surveys modern phishing detection strategies using ML techniques such as ensemble learning, NLP, and deep neural networks. It critically compares models, datasets, limitations, and future directions in adversarial resilience, scalability, and privacy.
+- [📘 Read the Full Report](Survey_Report_Phishing_Detection_ML.pdf)
